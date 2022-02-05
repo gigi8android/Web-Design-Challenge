@@ -3,7 +3,7 @@
 ## Homework submission:
 
 The folder structure in this repository is as followed: </br>
-1. Folder "Resources" contains: input data file _cities.csv_ and all the provided weather images (stored in the subfolder called "assets")
+1. Folder "resources" contains: input data file _cities.csv_ and all the provided weather images (stored in the subfolder called "assets")
 2. Folder "js" contains: java script file
 3. Folder "css" contains: extract of Bootswatch (superhero theme for the bonus points) and local customised styling (_style.css_)
 4. Other files:
