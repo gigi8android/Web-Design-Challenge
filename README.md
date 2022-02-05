@@ -9,6 +9,7 @@ The folder structure in this repository is as followed: </br>
 4. Other files:
     * Jupyter notebook: _csv_data_to_html_table_ is for converting the file cities.csv into html format and exported the data temporarily into the file _data_table_x.html_ (without bootstrap formating). 
     * and all the required html files.
+5. URL of github page: https://gigi8android.github.io/Web-Design-Challenge/
 
 **_Notes:_** </br>
   - File _nav.html_ is containing tags & styling only for the navitation bar that can be called from other html files.
