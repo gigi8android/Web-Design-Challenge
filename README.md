@@ -14,6 +14,6 @@ The folder structure in this repository is as followed: </br>
 **_Notes:_** </br>
   - File _nav.html_ is containing tags & styling only for the navitation bar that can be called from other html files.
   - The landing/ main/ home page is called _index.html_
-  - The contents of file _data_table_x.html_ had been manipulating by updating with bootstraps styling to make it more presentatable and meet the homework requirements. Therefore it has been replaced by file _Data_Table.html_.
+  - The contents of file _data_table_x.html_ had been manipulating by updating with bootstraps styling to make it more presentatable and meet the homework requirements. Therefore it has been replaced by file _Data.html_.
   - Some styling techniques had been applied to the web pages, such as dynamic navigation bar, mouse hover zoom, tool tip text and static table header.
   - The web pages should be opened with "Visual Studio Code - Live Server" due to the use of javascript, Bootstrap and Bootswatch styling.
